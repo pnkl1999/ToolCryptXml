@@ -1,0 +1,10 @@
+C:\Users\khanh\source\repos\ToolCryptXml\ToolCryptXml\bin\Debug\ToolCryptXml.exe.config
+C:\Users\khanh\source\repos\ToolCryptXml\ToolCryptXml\bin\Debug\ToolCryptXml.exe
+C:\Users\khanh\source\repos\ToolCryptXml\ToolCryptXml\bin\Debug\ToolCryptXml.pdb
+C:\Users\khanh\source\repos\ToolCryptXml\ToolCryptXml\obj\Debug\ToolCryptXml.csproj.AssemblyReference.cache
+C:\Users\khanh\source\repos\ToolCryptXml\ToolCryptXml\obj\Debug\ToolCryptXml.Form1.resources
+C:\Users\khanh\source\repos\ToolCryptXml\ToolCryptXml\obj\Debug\ToolCryptXml.Properties.Resources.resources
+C:\Users\khanh\source\repos\ToolCryptXml\ToolCryptXml\obj\Debug\ToolCryptXml.csproj.GenerateResource.cache
+C:\Users\khanh\source\repos\ToolCryptXml\ToolCryptXml\obj\Debug\ToolCryptXml.csproj.CoreCompileInputs.cache
+C:\Users\khanh\source\repos\ToolCryptXml\ToolCryptXml\obj\Debug\ToolCryptXml.exe
+C:\Users\khanh\source\repos\ToolCryptXml\ToolCryptXml\obj\Debug\ToolCryptXml.pdb
